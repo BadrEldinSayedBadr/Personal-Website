@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion';
 
+
 export default function ProjectsSection() {
 	return (
 		<section className="py-20 px-4">
@@ -24,7 +25,7 @@ export default function ProjectsSection() {
 								<div className="space-y-6">
 									<div>
 										<a href="https://hatemelsherif.com" target='_blanck'>
-											<h3 className="text-2xl font-bold mb-4">E-Learning Platform "Khatwa"</h3>
+											<h3 className="text-2xl font-bold mb-4">E-Learning Platform &quot;Khatwa&quot;</h3>
 										</a>
 										
 										<p className="text-gray-400">
