@@ -97,7 +97,9 @@ export default function ProjectsSection() {
 							<div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
 								<div className="space-y-6">
 									<div>
-										<h3 className="text-2xl font-bold mb-4">Talabat E-commerce Platform</h3>
+										<a href="https://github.com/BadrEldinSayedBadr/Talabat" target='_blanck'>
+											<h3 className="text-2xl font-bold mb-4">Talabat E-commerce Platform</h3>
+										</a>
 										<p className="text-gray-400">
 
 											Talabat E-commerce Platform is a scalable online shopping solution where customers can browse products, use advanced filters, and add items to their cart, even without logging in, through Redis-powered guest sessions. Secure payments are handled via Stripe, ensuring safe and reliable transactions. A robust Token Service manages authentication and authorization across the platform. An intuitive MVC Admin Dashboard enables administrators to manage products, brands, and users with full CRUD operations and role-based access control.
